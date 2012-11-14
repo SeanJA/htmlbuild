@@ -1,22 +1,24 @@
 ================
-%(package_name)s
+HTMLBuild
 ================
 
-<main description>
+Preview HTML Files in your browser
 
 
 The Problem
 ===========
 
-<problem this package tries to solve>
+Sublime users: do I really need to add a new build system to open an HTML file open in a browser? #alreadygoogled #really #textcheckmate
+
+https://twitter.com/bethmaru/status/268548533941043201
 
 
 Getting Started
 ===============
 
-- Install `%(package_name)s`_
+- Install `htmlbuild`
 
-.. _%(package_name)s: https://
+%(package_name)s: https://github.com/SeanJA/htmlbuild
 
 If you're running a full installation of Sublime Text, simply doublelick on the
 ``.sublime-package`` file. If you're running a portable installation, you need
@@ -24,12 +26,7 @@ to perform an `installation by hand`_.
 
 .. _installation by hand: http://sublimetext.info/docs/extensibility/packages.html#installation-of-packages-with-sublime-package-archives
 
-Once installed, run the following command from the Python console (``Ctrl+```)::
-
-      view.run_command("COMMAND")
+Once installed, you should be able to pick the `htmlbuild` build system and hit your build button (default F7 I think...).
+Theoretically it also works when you have just an html file open.
 
 Alternatively, you can define a new key binding for this command.
-
-How to Use
-==========
-
