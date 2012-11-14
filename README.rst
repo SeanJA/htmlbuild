@@ -18,7 +18,7 @@ Getting Started
 
 - Install `htmlbuild`
 
-%(package_name)s: https://github.com/SeanJA/htmlbuild
+HTMLBuild: https://github.com/SeanJA/htmlbuild
 
 If you're running a full installation of Sublime Text, simply doublelick on the
 ``.sublime-package`` file. If you're running a portable installation, you need
